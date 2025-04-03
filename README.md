@@ -10,4 +10,6 @@
   <li><b>Georgia Institute of Technology</b> - Introduction to User Experience Design - April 2024 (Usability / User Experience (UX) / User Experience Design (UXD) / User Interface)</li>
   <li><b>Salesforce</b> - Sales and CRM Overview - May 2024 (Sales / Databases / Marketing)</li>
   <li><b>Salseforce</b> - Lead Management in Salesforce - May 2024 (Leadership and Management / Operations Management / Sales / Strategy / Strategy and Operations / Marketing)</li>
+  <li><b>CompTIA</b> - CompTIA Network+ (N10-009), Issued: March 2025</li>
+  <li><b>CompTIA</b> - CompTIA Security+ (SY0-701), Issued: April 2025</li>
 </ul>
