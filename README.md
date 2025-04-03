@@ -1,4 +1,4 @@
-# Certificate
+# Certifications
 
 <ul>
   <li><b>Georgia Tech College</b> - CS1332xI: Data Structures & Algorithms I - Aug 2024 (ArrayLists / LinkedLists / Stacks and Queues / Java)</li>
