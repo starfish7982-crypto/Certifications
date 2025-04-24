@@ -12,4 +12,6 @@
   <li><b>Salseforce</b> - Lead Management in Salesforce - May 2024 (Leadership and Management / Operations Management / Sales / Strategy / Strategy and Operations / Marketing)</li>
   <li><b>CompTIA</b> - CompTIA Network+ (N10-009), Issued: March 2025</li>
   <li><b>CompTIA</b> - CompTIA Security+ (SY0-701), Issued: April 2025</li>
+  <li><b>Linux Professional Institute</b> - Linux Essentials, Issued: April 2025</li>
+  <li><b>Google</b> - Google Project Management, Issued: April 2025</li>
 </ul>
