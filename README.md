@@ -15,4 +15,5 @@
   <li><b>Linux Professional Institute</b> - Linux Essentials, Issued: April 2025</li>
   <li><b>Google</b> - Google Project Management, Issued: April 2025</li>
   <li><b>Scrum.org</b> - Professional Scrum Master I (PSM I), Issued: April 2025</li>
+  <li><b>Google</b> - Google IT Support, Issued: April 2025</li>
 </ul>
