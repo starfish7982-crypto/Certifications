@@ -14,6 +14,7 @@
   <li><b>CompTIA</b> - CompTIA Security+ (SY0-701), Issued: April 2025</li>
   <li><b>Linux Professional Institute</b> - Linux Essentials, Issued: April 2025</li>
   <li><b>Google</b> - Google Project Management, Issued: April 2025</li>
-  <li><b>Scrum.org</b> - Professional Scrum Master I (PSM I), Issued: April 2025</li>
   <li><b>Google</b> - Google IT Support, Issued: April 2025</li>
+  <li><b>Scrum.org</b> - Professional Scrum Master I (PSM I), Issued: April 2025</li>
+  <li><b>PeopleCert</b> - ITIL 4 Foundation Certificate, Issued: June 2025</li>
 </ul>
